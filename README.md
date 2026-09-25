@@ -473,14 +473,6 @@ Contributions are welcome.
 
 ---
 
-# License
-
-This project is available under the MIT License.
-
-See the `LICENSE` file for more information.
-
----
-
 # Author
 
 **Kushagra Saxena**
