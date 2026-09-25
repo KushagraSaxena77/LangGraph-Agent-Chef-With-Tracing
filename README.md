@@ -1,4 +1,3 @@
-
 # LangGraph Chef Agent
 
 An AI powered personal chef agent built with LangGraph, LangChain, Google Gemini, and Tavily.
@@ -66,10 +65,10 @@ The chef agent is instructed to provide simple, practical, and easy to follow co
 <img width="425" height="360" alt="image" src="https://github.com/user-attachments/assets/bc2b7f9f-d5ea-4dec-a1c9-d9575f40256d" />
 <img width="423" height="263" alt="image" src="https://github.com/user-attachments/assets/a3adc003-2096-4923-8cec-444356ea1bf2" />
 
-```
+---
 
 The high level execution flow is:
-
+```
 
 User Request
      |
