@@ -1,0 +1,17 @@
+# Local environment variables
+.env
+
+# Virtual environments (as a backup)
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+
+.langgraph_api
