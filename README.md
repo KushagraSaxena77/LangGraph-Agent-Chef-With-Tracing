@@ -244,7 +244,7 @@ Create a `.env` file in the root directory:
 ```text
 GOOGLE_API_KEY=your_google_api_key
 TAVILY_API_KEY=your_tavily_api_key
-LANGSMITH_TRACING=false
+LANGSMITH_TRACING=true
 ```
 
 Replace the placeholder values with your actual API keys.
